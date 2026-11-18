@@ -3,6 +3,10 @@ This project follows Keep a Changelog and Semantic Versioning.
 
 ## [Unreleased]
 
+## [1.1.0] - 2026-11-18
+### Added
+- "Updated" date on the home page, formatted with dayjs
+
 ## [1.0.1] - 2026-11-18
 ### Fixed
 - Contact link pointed to contact.htm instead of contact.html

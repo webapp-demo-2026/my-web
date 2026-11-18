@@ -5,5 +5,8 @@
   <h1>Somchai Jaidee</h1>
   <p>About me</p>
   <a href="contact.html">Contact</a>
+  <p id="updated"></p>
+  <script src="node_modules/dayjs/dayjs.min.js"></script>
+  <script>document.getElementById("updated").textContent = "Updated " + dayjs().format("YYYY-MM-DD");</script>
 </body>
 </html>
